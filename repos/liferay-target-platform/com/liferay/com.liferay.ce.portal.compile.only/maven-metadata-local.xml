@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.liferay</groupId>
+  <artifactId>com.liferay.ce.portal.compile.only</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180328171416</lastUpdated>
+  </versioning>
+</metadata>
