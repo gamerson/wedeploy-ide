@@ -3,9 +3,10 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.ce.portal.compile.only</artifactId>
   <versioning>
+    <release>7.0.5</release>
     <versions>
-      <version>7.0.5-SNAPSHOT</version>
+      <version>7.0.5</version>
     </versions>
-    <lastUpdated>20180328171416</lastUpdated>
+    <lastUpdated>20180328171718</lastUpdated>
   </versioning>
 </metadata>
