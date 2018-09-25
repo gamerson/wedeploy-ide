@@ -7,3 +7,4 @@ ADD em /var/www/em
 ADD m2e /var/www/m2e
 ADD liferay-ide-osgi-deps /var/www/liferay-ide-osgi-deps
 ADD liferay-target-platform /var/www/liferay-target-platform
+ADD static /var/www/static
